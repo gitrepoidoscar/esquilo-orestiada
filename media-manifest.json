@@ -1,0 +1,130 @@
+{
+  "images": [
+    {
+      "kind": "public-domain",
+      "credit": "William-Adolphe Bouguereau · Orestes perseguido por las Furias, 1862 · Chrysler Museum of Art, Norfolk · dominio público",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Orestes_Pursued_by_the_Furies_by_William-Adolphe_Bouguereau_(1862)_-_Google_Art_Project.jpg",
+      "license": "Dominio público (PD-Art, obra de 1862)",
+      "src": "images/bouguereau-orestes-furias-1862.jpg",
+      "used_as": [
+        "art"
+      ]
+    },
+    {
+      "kind": "public-domain",
+      "credit": "Busto identificado como Esquilo · Museos Capitolinos, Roma · fotografía publicada en 1905, dominio público",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aischylos_B%C3%BCste.jpg",
+      "license": "Dominio público (publicación de 1905)",
+      "src": "images/busto-esquilo-capitolino.jpg",
+      "used_as": [
+        "art"
+      ]
+    },
+    {
+      "kind": "original",
+      "credit": "Esquema original para esta revista",
+      "source_url": "images/casa-de-atreo.svg",
+      "license": "Creación original de este proyecto",
+      "src": "images/casa-de-atreo.svg",
+      "used_as": [
+        "figure"
+      ]
+    },
+    {
+      "kind": "public-domain",
+      "credit": "John Collier · Clitemnestra, 1882 · dominio público",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Clytemnestra_by_John_Collier,_1882.jpg",
+      "license": "Dominio público (PD-Art; el autor murió en 1934)",
+      "src": "images/collier-clitemnestra-1882.jpg",
+      "used_as": [
+        "art"
+      ]
+    },
+    {
+      "kind": "original",
+      "credit": "Esquema original para esta revista",
+      "source_url": "images/cronologia-esquilo.svg",
+      "license": "Creación original de este proyecto",
+      "src": "images/cronologia-esquilo.svg",
+      "used_as": [
+        "figure"
+      ]
+    },
+    {
+      "kind": "public-domain",
+      "credit": "Pierre-Narcisse Guérin · Clitemnestra duda antes de matar a Agamenón dormido, 1817 · Museo del Louvre (INV 5185) · dominio público",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pierre-Narcisse_Gu%C3%A9rin_-_Clytemnestra_and_Agamemnon_-_WGA10974.jpg",
+      "license": "Dominio público (PD-Art, obra de 1817)",
+      "src": "images/guerin-clitemnestra-1817.jpg",
+      "used_as": [
+        "art"
+      ]
+    },
+    {
+      "kind": "public-domain",
+      "credit": "Pintor de las Euménides · crátera apulia de campana, c. 380–370 a. C. · Museo del Louvre (Cp 710) · foto Bibi Saint-Pol, dominio público",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Orestes_Apollo_Louvre_Cp710.jpg",
+      "license": "Dominio público (cedida por el fotógrafo; objeto antiguo)",
+      "src": "images/krater-eumenides-apolo-orestes.jpg",
+      "used_as": [
+        "hero"
+      ]
+    },
+    {
+      "kind": "public-domain",
+      "credit": "Frederic Leighton · Electra en la tumba de Agamenón, c. 1868–1869 · Ferens Art Gallery, Hull · dominio público",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1869_Frederic_Leighton_-_Electra_at_the_Tomb_of_Agamemnon.jpg",
+      "license": "Dominio público (PD-Art; el autor murió en 1896)",
+      "src": "images/leighton-electra-tumba-1869.jpg",
+      "used_as": [
+        "art"
+      ]
+    },
+    {
+      "kind": "original",
+      "credit": "Esquema original para esta revista · no a escala",
+      "source_url": "images/mapa-orestiada.svg",
+      "license": "Creación original de este proyecto",
+      "src": "images/mapa-orestiada.svg",
+      "used_as": [
+        "map"
+      ]
+    },
+    {
+      "kind": "public-domain",
+      "credit": "John Singer Sargent · Orestes perseguido por las Furias, 1921 · Museum of Fine Arts, Boston (25.645) · dominio público",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Singer_Sargent,_John_-_Orestes_Pursued_by_the_Furies_-_1921.jpg",
+      "license": "Dominio público (PD-Art; el autor murió en 1925)",
+      "src": "images/sargent-orestes-furias-1921.jpg",
+      "used_as": [
+        "art"
+      ]
+    }
+  ],
+  "embeds": [
+    {
+      "provider": "youtube",
+      "id": "8-zFnJnLt4w",
+      "title": "Vídeo: Tanéyev, obertura «Orestíada» (título original: «Overture to Oresteya, Op. 6») — Orquesta Sinfónica Académica de Novosibirsk",
+      "chapter": "agamenon-espera",
+      "role": "music",
+      "relation": "direct"
+    },
+    {
+      "provider": "youtube",
+      "id": "SvAYvHYJm9E",
+      "title": "Vídeo: Xenakis, «Oresteïa» (1966) — Universidad de Canterbury",
+      "chapter": "agamenon-alfombra",
+      "role": "music",
+      "relation": "direct"
+    },
+    {
+      "provider": "youtube",
+      "id": "cVVPlBA2Kl4",
+      "title": "Vídeo: Milhaud, «Les Euménides» op. 41, acto I, «Une chose affreuse à dire» (la Pitia)",
+      "chapter": "eumenides-delfos",
+      "role": "music",
+      "relation": "direct"
+    }
+  ]
+}

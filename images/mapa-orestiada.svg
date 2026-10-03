@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="t d" font-family="Georgia, 'Iowan Old Style', serif">
+  <title id="t">Esquema geográfico de la Orestíada y de la vida de Esquilo</title>
+  <desc id="d">Esquema no a escala. Muestra Troya y el monte Ida, la cadena de hogueras que según Agamenón llevó la noticia hasta Argos, el recorrido de Orestes entre la Fócide, Argos, Delfos y Atenas, y lugares de la vida de Esquilo: Eleusis, Maratón, Salamina, Artemisio, Atenas y, en un recuadro, Gela y Siracusa en Sicilia.</desc>
+  <defs>
+    <pattern id="meander" width="24" height="12" patternUnits="userSpaceOnUse">
+      <path d="M0 11 H20 V1 H4 V7 H14 V4 H9" fill="none" stroke="#b5532a" stroke-width="1.6"/>
+    </pattern>
+    <marker id="arrO" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#2f5d73"/></marker>
+  </defs>
+  <rect width="900" height="640" fill="#efe4cf"/>
+  <rect x="0" y="0" width="900" height="12" fill="url(#meander)"/>
+  <rect x="0" y="628" width="900" height="12" fill="url(#meander)"/>
+  <g fill="#7d6a55" font-style="italic" font-size="15" opacity="0.75">
+    <text x="470" y="380">Mar Egeo</text>
+    <text x="70" y="250">Grecia continental</text>
+    <text x="720" y="330">Asia Menor</text>
+  </g>
+
+  <!-- Cadena de hogueras (selección) -->
+  <polyline points="704,216 565,225 436,186 355,405 327,442 299,483 243,567 212,565" fill="none" stroke="#b5532a" stroke-width="2.4" stroke-dasharray="7 6"/>
+  <!-- Recorrido de Orestes -->
+  <path d="M168,428 C150,500 170,545 205,560" fill="none" stroke="#2f5d73" stroke-width="2.6" marker-end="url(#arrO)"/>
+  <path d="M220,552 C240,500 215,460 188,444" fill="none" stroke="#2f5d73" stroke-width="2.6" marker-end="url(#arrO)"/>
+  <path d="M192,440 C260,450 310,480 345,508" fill="none" stroke="#2f5d73" stroke-width="2.6" marker-end="url(#arrO)"/>
+
+  <g font-size="14" fill="#14100d">
+    <circle cx="704" cy="216" r="7" fill="#14100d"/><text x="716" y="212">Troya (Ilión)</text>
+    <circle cx="789" cy="255" r="4" fill="#b5532a"/><text x="798" y="270" font-size="12">monte Ida</text>
+    <circle cx="565" cy="225" r="4" fill="#b5532a"/><text x="545" y="250" font-size="12">Lemnos</text>
+    <circle cx="436" cy="186" r="4" fill="#b5532a"/><text x="446" y="182" font-size="12">monte Atos</text>
+    <circle cx="355" cy="405" r="4" fill="#b5532a"/><text x="364" y="402" font-size="12">Macisto (Eubea)</text>
+    <circle cx="299" cy="483" r="4" fill="#b5532a"/><text x="230" y="482" font-size="12">Citerón</text>
+    <circle cx="243" cy="567" r="4" fill="#b5532a"/><text x="250" y="590" font-size="12">Aracneo</text>
+    <circle cx="212" cy="565" r="7" fill="#14100d"/><text x="120" y="570">Argos</text>
+    <circle cx="315" cy="430" r="5" fill="#14100d"/><text x="322" y="436" font-size="13">Áulide</text>
+    <circle cx="180" cy="438" r="7" fill="#14100d"/><text x="88" y="424">Delfos · Fócide</text>
+    <circle cx="352" cy="514" r="8" fill="#14100d"/><text x="364" y="530" font-weight="bold">Atenas · Areópago</text>
+    <circle cx="326" cy="500" r="5" fill="#c98b3c" stroke="#14100d"/><text x="272" y="505" font-size="12" text-anchor="start">Eleusis</text>
+    <circle cx="318" cy="522" r="5" fill="#c98b3c" stroke="#14100d"/><text x="262" y="540" font-size="12">Salamina</text>
+    <circle cx="386" cy="487" r="5" fill="#c98b3c" stroke="#14100d"/><text x="395" y="484" font-size="12">Maratón</text>
+    <circle cx="285" cy="360" r="5" fill="#c98b3c" stroke="#14100d"/><text x="208" y="356" font-size="12">Artemisio</text>
+  </g>
+
+  <!-- Recuadro de Sicilia -->
+  <g transform="translate(600,430)">
+    <rect width="270" height="170" rx="6" fill="#f7efe0" stroke="#14100d" stroke-width="1.2"/>
+    <text x="14" y="24" font-size="13" font-style="italic" fill="#7d6a55">Recuadro: Sicilia (más al oeste)</text>
+    <path d="M30 70 L220 55 L250 140 Z" fill="none" stroke="#7d6a55" stroke-width="1.4"/>
+    <circle cx="200" cy="72" r="4" fill="#7d6a55"/><text x="150" y="92" font-size="12">Etna</text>
+    <circle cx="232" cy="122" r="5" fill="#c98b3c" stroke="#14100d"/><text x="160" y="140" font-size="12">Siracusa</text>
+    <circle cx="118" cy="108" r="6" fill="#14100d"/><text x="40" y="128" font-size="13">Gela</text>
+    <text x="14" y="160" font-size="11" fill="#5c4a3a">Gela: lugar de su muerte (Mármol de Paros)</text>
+  </g>
+
+  <!-- Leyenda -->
+  <g transform="translate(40,36)" font-size="12.5" fill="#14100d">
+    <rect width="330" height="112" rx="6" fill="#f7efe0" stroke="#14100d" stroke-width="1"/>
+    <line x1="14" y1="24" x2="54" y2="24" stroke="#b5532a" stroke-width="2.4" stroke-dasharray="7 6"/><text x="62" y="28">Hogueras de Agamenón (selección)</text>
+    <line x1="14" y1="48" x2="54" y2="48" stroke="#2f5d73" stroke-width="2.6"/><text x="62" y="52">Orestes: Fócide → Argos → Delfos → Atenas</text>
+    <circle cx="34" cy="72" r="5" fill="#c98b3c" stroke="#14100d"/><text x="62" y="76">Lugares de la vida de Esquilo</text>
+    <text x="14" y="100" font-style="italic" fill="#5c4a3a">Esquema original, no a escala. Mito y escena, no historia probada.</text>
+  </g>
+</svg>

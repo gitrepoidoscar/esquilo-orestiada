@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="t d" font-family="Georgia, 'Iowan Old Style', serif">
+  <title id="t">La casa de Atreo según la Orestíada</title>
+  <desc id="d">Árbol familiar simplificado. Atreo y Tiestes son hermanos. Atreo sirvió a Tiestes la carne de sus hijos; sobrevivió Egisto. Hijos de Atreo: Agamenón y Menelao, casados con las hermanas Clitemnestra y Helena. Hijos de Agamenón y Clitemnestra: Ifigenia, sacrificada en Áulide; Electra; y Orestes. Flechas numeradas: 1, Agamenón sacrifica a Ifigenia; 2, Clitemnestra mata a Agamenón; 3, Orestes mata a Clitemnestra y a Egisto; 4, juicio en Atenas.</desc>
+  <defs>
+    <pattern id="meander" width="24" height="12" patternUnits="userSpaceOnUse">
+      <path d="M0 11 H20 V1 H4 V7 H14 V4 H9" fill="none" stroke="#c98b3c" stroke-width="1.6"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#e0703f"/></marker>
+  </defs>
+  <rect width="900" height="500" fill="#1b1512"/>
+  <rect width="900" height="12" fill="url(#meander)"/>
+  <rect y="488" width="900" height="12" fill="url(#meander)"/>
+
+  <g stroke="#c98b3c" stroke-width="1.5" fill="none">
+    <path d="M305 60 H655"/>
+    <path d="M260 76 V120 M140 120 H400 M140 120 V150 M400 120 V150"/>
+    <path d="M700 76 V120 M640 120 H800 M640 120 V150 M800 120 V150"/>
+    <path d="M192 167 H226"/><path d="M450 167 H478"/>
+    <path d="M209 167 V262 M90 262 H370 M90 262 V282 M230 262 V282 M370 262 V282"/>
+  </g>
+  <path d="M290 186 Q405 232 520 186" stroke="#b9a68a" stroke-width="1.2" fill="none" stroke-dasharray="4 4"/>
+
+  <g font-size="17" fill="#efe4cf" text-anchor="middle">
+    <text x="260" y="66">Atreo</text>
+    <text x="700" y="66">Tiestes</text>
+    <text x="480" y="52" font-size="12" fill="#b9a68a">hermanos</text>
+    <text x="140" y="172">Agamenón</text>
+    <text x="285" y="172">Clitemnestra</text>
+    <text x="400" y="172">Menelao</text>
+    <text x="525" y="172">Helena</text>
+    <text x="640" y="172">Egisto</text>
+    <text x="800" y="172" font-size="14" fill="#b9a68a">otros hijos</text>
+    <text x="800" y="190" font-size="12" fill="#b9a68a">(servidos en el banquete)</text>
+    <text x="405" y="228" font-size="12" fill="#b9a68a">hermanas</text>
+    <text x="90" y="304">Ifigenia</text>
+    <text x="230" y="304">Electra</text>
+    <text x="370" y="304">Orestes</text>
+  </g>
+
+  <g stroke="#e0703f" stroke-width="2.2" fill="none" marker-end="url(#arr)">
+    <path d="M120 182 C95 210 85 240 88 280"/>
+    <path d="M270 154 C240 128 200 128 168 152"/>
+    <path d="M392 290 C430 250 360 215 305 188"/>
+  </g>
+  <g font-size="13" fill="#1b1512" text-anchor="middle" font-weight="bold">
+    <circle cx="72" cy="228" r="11" fill="#e0703f"/><text x="72" y="233">1</text>
+    <circle cx="218" cy="122" r="11" fill="#e0703f"/><text x="218" y="127">2</text>
+    <circle cx="420" cy="258" r="11" fill="#e0703f"/><text x="420" y="263">3</text>
+  </g>
+
+  <g font-size="13.5" fill="#efe4cf">
+    <text x="30" y="352">0 · Antes de la trilogía: Atreo sirve a Tiestes la carne de sus hijos (lo evocan Casandra y Egisto).</text>
+    <text x="30" y="376">1 · Agamenón sacrifica a Ifigenia en Áulide para que zarpe la flota (Agamenón, coro de ancianos).</text>
+    <text x="30" y="400">2 · Clitemnestra, con Egisto como cómplice, mata a Agamenón al volver de Troya.</text>
+    <text x="30" y="424">3 · Orestes, enviado por el oráculo de Apolo, mata a Egisto y a su madre (Coéforas).</text>
+    <text x="30" y="448">4 · Euménides: perseguido por las Erinias, Orestes es juzgado en Atenas y la cadena se interrumpe.</text>
+    <text x="30" y="474" font-style="italic" fill="#b9a68a" font-size="12">Esquema original simplificado. Sigue la versión de Esquilo; otras fuentes antiguas cuentan el mito de otra manera.</text>
+  </g>
+</svg>
