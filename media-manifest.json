@@ -352,6 +352,16 @@
       "used_as": [
         "art"
       ]
+    },
+    {
+      "src": "images/geografia-egeo-sicilia.svg",
+      "kind": "original",
+      "credit": "Cartografía original con Natural Earth y Pleiades; atribuciones en el pie del mapa.",
+      "license": "Natural Earth: public domain; Pleiades contributors: CC BY 3.0; map adaptation original.",
+      "source_url": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "used_as": [
+        "geographic-map"
+      ]
     }
   ],
   "embeds": [
@@ -378,6 +388,15 @@
       "chapter": "eumenides-delfos",
       "role": "music",
       "relation": "direct"
+    }
+  ],
+  "geographic_maps": [
+    {
+      "src": "images/geografia-egeo-sicilia.svg",
+      "coastlines": "Natural Earth 1:50m land, public domain",
+      "projection": "Mercator",
+      "locations": "Pleiades contributors (CC BY 3.0); UNESCO; coordinate references linked in caption",
+      "historical_limits": "Las costas actuales sirven de orientación; no representan fronteras antiguas. La línea discontinua une escenarios del relato de Orestes, sin afirmar un itinerario histórico. El recuadro de Sicilia usa otra escala."
     }
   ]
 }
