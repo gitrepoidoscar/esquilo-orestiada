@@ -1,6 +1,259 @@
 {
   "images": [
     {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-apertura-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-apertura.jpg",
+      "used_as": [
+        "hero",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-atenas-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-atenas.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-atreo-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-atreo.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-decision-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-decision.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-delfos-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-delfos.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-gela-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-gela.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-juicio-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-juicio.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-purpura-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-purpura.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-tumba-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-tumba.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-vida-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-vida.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-vigia-640.jpg",
+      "used_as": [
+        "responsive-variant"
+      ]
+    },
+    {
+      "kind": "ai-illustration",
+      "credit": "Ilustración creada con IA · reconstrucción interpretativa para esta revista; no es una obra antigua ni una prueba histórica. Figuras, arquitectura y paisaje imaginados; no es una reconstrucción arqueológica exacta.",
+      "tool": "Herramienta integrada de generación de imágenes de Codex",
+      "model": "No expuesto por la herramienta",
+      "license": "Ilustración original generada con IA para esta revista; no es una reproducción de arte histórico.",
+      "src": "images/ai-esq-vigia.jpg",
+      "used_as": [
+        "chapter-illustration",
+        "gallery"
+      ]
+    },
+    {
       "kind": "public-domain",
       "credit": "William-Adolphe Bouguereau · Orestes perseguido por las Furias, 1862 · Chrysler Museum of Art, Norfolk · dominio público",
       "source_url": "https://commons.wikimedia.org/wiki/File:Orestes_Pursued_by_the_Furies_by_William-Adolphe_Bouguereau_(1862)_-_Google_Art_Project.jpg",
@@ -67,7 +320,7 @@
       "license": "Dominio público (cedida por el fotógrafo; objeto antiguo)",
       "src": "images/krater-eumenides-apolo-orestes.jpg",
       "used_as": [
-        "hero"
+        "art"
       ]
     },
     {
